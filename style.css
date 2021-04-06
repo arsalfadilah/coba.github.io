@@ -1,0 +1,23 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+    background: linear-gradient(to bottom, rgb(0, 0, 255), rgb(255, 0, 0));
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+#googleMap{
+    width:98%;
+    height:500px;
+    margin: 0px 10px 0px 10px;
+}
+
+.kotak1 {
+    background: rgba(0, 0, 0, 0.637);
+}
